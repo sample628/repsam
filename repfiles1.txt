@@ -1,2 +1,8 @@
 This my first repository file
+<<<<<<< HEAD
 
+=======
+i have  successfully updated.......
+***************
+                ..................
+>>>>>>> repfile1
