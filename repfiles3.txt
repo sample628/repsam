@@ -1,1 +1,2 @@
 This my third repository file
+i have successfully updated third file
